@@ -1,0 +1,2 @@
+# Ejercicios Python
+Se desarrollaron algunos ejercicios sobre lógica con el uso de Python para la ejecución de estos. Algunos de ellos le permitirán al usuario calcular su IMC, si un número es par o impar, la conversión de la temperatura de celsius a farenheith y viceversa, entre muchos más.
